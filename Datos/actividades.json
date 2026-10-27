@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Museo A",
+    "categoria": "Museo",
+    "barrio": "Centro",
+    "precio_eur": 0
+  },
+  {
+    "id": 2,
+    "nombre": "Exposicion B",
+    "categoria": "Exposicion",
+    "barrio": "Carmen",
+    "precio_eur": 0
+  },
+  {
+    "id": 3,
+    "nombre": "Taller C",
+    "categoria": "Taller",
+    "barrio": "Benimaclet",
+    "precio_eur": 8
+  },
+  {
+    "id": 4,
+    "nombre": "Teatro D",
+    "categoria": "Teatro",
+    "barrio": "Centro",
+    "precio_eur": 12
+  },
+  {
+    "id": 5,
+    "nombre": "Museo E",
+    "categoria": "Museo",
+    "barrio": "Maritimo",
+    "precio_eur": 5
+  },
+  {
+    "id": 6,
+    "nombre": "Taller F",
+    "categoria": "Taller",
+    "barrio": "Carmen",
+    "precio_eur": 6
+  }
+]
